@@ -1,0 +1,6 @@
+pre-commit:
+  commands:
+    linter:
+      run: flutter analyze
+    tests:
+      run: flutter test
