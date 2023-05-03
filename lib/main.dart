@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:integration_gpt/injector.dart';
-import 'package:integration_gpt/ui/pages/home_page.dart';
+import 'package:integration_gpt/ui/pages/home/home_page.dart';
 
 void main() {
   // WidgetsBinding widgetsBinding = WidgetsFlutterBinding.ensureInitialized();
